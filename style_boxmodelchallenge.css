@@ -1,0 +1,18 @@
+p {
+    width: 200px;
+    color: white;
+    background: grey;
+    margin: 15px 0;
+    padding: 10px 20px;
+    border: 2px white dotted;
+    line-height: 24px;
+}
+
+.img1 img {
+   padding: 20px;
+   background-color: grey;
+}
+
+.img2 img {
+    border: 20px grey solid;
+}

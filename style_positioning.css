@@ -1,0 +1,38 @@
+.box {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+#display .box {
+    display: inline-block;
+}
+
+#float .box {
+    float: left;
+}
+
+#position .box:nth-child(1) {
+    background-color: red;
+    position: relative;
+    top: 170px;
+}
+
+#position .box:nth-child(2) {
+    background-color: red;
+    position: absolute;
+    left: 180px;
+}
+
+#position .box:nth-child(3) {
+    background-color: red;
+    position: absolute;
+    left: 350px;
+}
+
+
+
+
+
