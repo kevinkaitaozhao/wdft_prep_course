@@ -1,1 +1,76 @@
+body {
+    font-family: 'Open sans', sans-serif;
+    font-size: 16px;
+}
+
+header {
+    width: 90%;
+    margin-bottom: 5%;
+    padding: 5% 5% 0 2%;
+    line-height: 10px;
+    text-transform: uppercase;
+}
+
+header h1 {
+    font-weight: 400;
+    font-size: 3em;
+}
+
+header p {
+    font-size: 1em;
+    padding-left: 150px;
+    line-height: 8px;
+}
+
+.wrapper {
+    width: 90%;
+    padding: 0 5%;
+    margin: auto;
+}
+
+.leftside {
+    width: 40%;
+    float: left;
+}
+
+.rightside {
+    width: 60%;
+    float: left;
+}
+
+.title {
+    width: 30%;
+    float: left;
+}
+
+.title h2 {
+    font-size: 1em;
+    font-weight: 400;
+    text-transform: uppercase;
+    padding-right: 20%;
+    text-align: right;
+    line-height: 30px;
+}
+
+.info {
+    width: 70%;
+    float: left;
+}
+
+.info h3 {
+    text-transform: uppercase;
+    line-height: 20px;
+}
+
+.description {
+    margin-bottom: 5%;
+}
+
+
+
+
+
+
+
+
 
